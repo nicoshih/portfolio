@@ -4,4 +4,3 @@ description: Data Journalist, Data Analyst, Data Visualization
 show_downloads: true
 theme: jekyll-theme-minimal
 
-include: ['assets/css/style.css']
